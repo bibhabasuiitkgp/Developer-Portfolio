@@ -1,7 +1,5 @@
 # Developer Portfolio Website in React
 
-In the /personal-portfolio, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
