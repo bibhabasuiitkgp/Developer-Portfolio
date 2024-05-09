@@ -7,6 +7,7 @@ import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
+import Project2 from './components/Project2';
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
-      <Projects />
+      {/* <Projects /> */}
+      <Project2 />
       <Contact />
       <Footer />
     </div>
